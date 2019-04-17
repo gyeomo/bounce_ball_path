@@ -1,0 +1,2 @@
+C:\Unity\bounce ball path\obj\Debug\Assembly-CSharp.csprojResolveAssemblyReference.cache
+C:\Unity\bounce ball path\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache

@@ -1,0 +1,44 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/SetResolution.unity
+    guid: 95b769f13eb438c40abd2473dcb7180e
+  - enabled: 1
+    path: Assets/Scenes/HomePage.unity
+    guid: dae3c378c777fac4ab26e9b0ff46d29e
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage1.unity
+    guid: 5df9a9e65404bfd4a8a5dd61ac196345
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage2.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage3.unity
+    guid: 0c0aaf2aec0118a4e9fde602b0427940
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage4.unity
+    guid: 355bf3586ddb76c47a644981b9a59b96
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage5.unity
+    guid: 47442f878cd0a96428b62088f5522e89
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage6.unity
+    guid: 604e9ca769aefa8469305e46a157b20c
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage7.unity
+    guid: 0d7bccd747ecba44992688ffc8028701
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage8.unity
+    guid: fcd80e1bb325cf942aaf1d4e8be8fa4b
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage9.unity
+    guid: e887ac4f52386de4e8ea46d68f88899d
+  - enabled: 1
+    path: Assets/Scenes/GameStage/GameStage10.unity
+    guid: 30de127025c07be49bad974f3e7ad54e
+  m_configObjects: {}
