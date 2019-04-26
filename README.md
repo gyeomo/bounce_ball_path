@@ -15,3 +15,9 @@ You must go to the target point (red ball) within the specified number of collis
 You can see where the blue ball is going and how it goes.
 
 This is not a full-fledged release yet, so just press the ad button.
+
+
+
+<img src="/1.png" width="250" height="450"> <img src="/2.png" width="250" height="450">
+<img src="/3.png" width="250" height="450"> <img src="/4.png" width="250" height="450">
+<img src="/5.png" width="250" height="450">
