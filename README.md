@@ -18,6 +18,6 @@ This is not a full-fledged release yet, so just press the ad button.
 
 
 
-<img src="/1.png" width="250" height="450"> <img src="/2.png" width="250" height="450">
-<img src="/3.png" width="250" height="450"> <img src="/4.png" width="250" height="450">
-<img src="/5.png" width="250" height="450">
+<img src="/1.png" width="450" height="250"> <img src="/2.png" width="450" height="250">
+<img src="/3.png" width="450" height="250"> <img src="/4.png" width="450" height="250">
+<img src="/5.png" width="450" height="250">
